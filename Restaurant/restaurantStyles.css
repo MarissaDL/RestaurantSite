@@ -1,0 +1,41 @@
+header {
+  background-color: black;
+  color: red;
+  padding: 8px;
+  border: thin solid;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+footer {
+  Background-color:black;
+  color:red;
+  padding: 8px;
+  border: thin solid;
+  text-align: center;
+}
+
+a {
+  font-family: monospace;
+  text-decoration: underline;
+  font-weight: none;
+}
+
+a:link {
+  color: yellow;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #00c;
+  font-weight: bold;
+}
+
+a:active {
+  text-decoration: none;
+}
